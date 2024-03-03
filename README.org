@@ -1,0 +1,10 @@
+* About
+There is a growing need to find approrpriate domain to publish Bangla NLP works. Often new researchers resort to predatory journals as they can't find any approrpriate journal for their works.
+
+To resolve it, we are analyzing over 10,000 bangla research papers to identify which topics get published in which journals.
+* Plan
+- [X] Try google scholar to find paper list
+- [ ] Then for each paper, try to find their conference.
+  - [ ] Visit the link. Try to find conference name from that link using regex
+  - [ ] Use IEEexplorer or Springer specific data miners
+- [ ] Understand what scholarly does.
