@@ -8,3 +8,5 @@ To resolve it, we are analyzing over 10,000 bangla research papers to identify w
   - [ ] Visit the link. Try to find conference name from that link using regex
   - [ ] Use IEEexplorer or Springer specific data miners
 - [ ] Understand what scholarly does.
+* References
+[[https://github.com/NLPatVCU/PaperScraper][Springer and other famous journal scraper]]
